@@ -5,7 +5,7 @@ import eslintPlugin from 'vite-plugin-eslint';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vite-deploy-sample',
+  base: '/vite-deploy-test',
   plugins: [
     vue(),
     eslintPlugin({
