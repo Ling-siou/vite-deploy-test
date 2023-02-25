@@ -2,6 +2,9 @@
 // require('@rushstack/eslint-patch/modern-module-resolution');
 
 module.exports = {
+  rules: {
+    'no-console': 'off',
+  },
   root: true,
   env: {
     browser: true,
