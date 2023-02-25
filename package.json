@@ -11,6 +11,7 @@
   "dependencies": {
     "@vueup/vue-quill": "^1.1.0",
     "axios": "^1.3.3",
+    "leaflet": "^1.9.3",
     "pinia": "^2.0.28",
     "vite-plugin-eslint": "^1.8.1",
     "vue": "^3.2.45",
