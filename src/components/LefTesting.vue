@@ -56,6 +56,7 @@ export default {
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     }).addTo(this.map);
     L.marker([this.place.x, this.place.y]).addTo(this.map);
+    console.log('testEnv - url', url);
   },
   methods: {
     mapMove(latLng) {
