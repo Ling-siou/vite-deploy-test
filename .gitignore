@@ -26,6 +26,6 @@ coverage
 *.njsproj
 *.sln
 *.sw?
-
+.env
 # important
 /src/js/firebaseTest.js
